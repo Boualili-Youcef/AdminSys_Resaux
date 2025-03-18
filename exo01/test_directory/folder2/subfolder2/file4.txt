@@ -1,0 +1,1 @@
+Contenu de folder2/subfolder2/file4.txt
